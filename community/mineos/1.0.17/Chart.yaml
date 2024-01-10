@@ -18,7 +18,7 @@ dependencies:
 home: https://github.com/hexparrot/mineos-node
 icon: https://media.sys.truenas.net/apps/mineos/icons/icon.png
 sources:
-  - https://hub.docker.com/r/hexparrot/mineos/
+  - https://hub.docker.com/r/joshklassen/mineos/
   - https://github.com/truenas/charts/tree/master/community/mineos
   - https://github.com/hexparrot/mineos-node
 keywords:
