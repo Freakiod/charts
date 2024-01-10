@@ -1,5 +1,5 @@
 image:
-  repository: hexparrot/mineos
+  repository: joshklassen/mineos
   pullPolicy: IfNotPresent
   tag: latest
 
