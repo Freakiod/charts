@@ -1,6 +1,6 @@
 image:
   repository: joshklassen/mineos
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
   tag: latest
 
 resources:
